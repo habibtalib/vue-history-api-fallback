@@ -66,8 +66,6 @@ let options = {
 };
 history({router});
 let router = new VueRouter(options);
-
-history({router});
 ```
 
 ### options.index
