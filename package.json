@@ -28,6 +28,7 @@
   "homepage": "https://github.com/Andiedie/vue-history-api-fallback#readme",
   "dependencies": {},
   "devDependencies": {
+    "chai": "^3.5.0",
     "mocha": "^3.2.0",
     "vue-router": "^2.3.0"
   }
