@@ -3,8 +3,12 @@
 * @Date:   2017-03-14 14:00:09
 * @Email:  zchangan@163.com
 * @Last modified by:   周长安
-* @Last modified time: 2017-03-15 00:19:50
+* @Last modified time: 2017-03-15 00:45:57
+* @License: MIT
 */
+
+
+
 const history = require('../lib/index');
 const expect = require('chai').expect;
 const VueRouter = require('vue-router');
