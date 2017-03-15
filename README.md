@@ -1,10 +1,11 @@
 # vue-history-api-fallback
-![](https://travis-ci.org/Andiedie/vue-history-api-fallback.svg?branch=master) ![](https://david-dm.org/Andiedie/vue-history-api-fallback/status.svg) ![](https://david-dm.org/Andiedie/vue-history-api-fallback/dev-status.svg)
-
+[![travis](https://travis-ci.org/Andiedie/vue-history-api-fallback.svg?branch=master)](https://travis-ci.org/Andiedie/vue-history-api-fallback)
+[![david](https://david-dm.org/Andiedie/vue-history-api-fallback/status.svg)](https://david-dm.org/Andiedie/vue-history-api-fallback)
+[![david](https://david-dm.org/Andiedie/vue-history-api-fallback/dev-status.svg)](https://david-dm.org/Andiedie/vue-history-api-fallback?type=dev)
 
 `Express` middleware to redirect requests to a specified index page according to your `vue-router` options, useful for Single Page Applications using the HTML5 History API.
 
-[![NPM](https://nodei.co/npm/vue-history-api-fallback.png?downloads=true)](https://nodei.co/npm/vue-history-api-fallback/)
+[![NPM](https://nodei.co/npm/vue-history-api-fallback.png?downloads=true)](https://www.npmjs.com/package/vue-history-api-fallback)
 
 ## Introduction
 
