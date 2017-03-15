@@ -1,5 +1,5 @@
 # vue-history-api-fallback
-![](https://travis-ci.org/Andiedie/vue-history-api-fallback.svg?branch=master)
+![](https://travis-ci.org/Andiedie/vue-history-api-fallback.svg?branch=master) ![](https://david-dm.org/Andiedie/vue-history-api-fallback/status.svg) ![](https://david-dm.org/Andiedie/vue-history-api-fallback/dev-status.svg)
 
 
 `Express` middleware to redirect requests to a specified index page according to your `vue-router` options, useful for Single Page Applications using the HTML5 History API.
