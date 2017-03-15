@@ -1,0 +1,10 @@
+# @Author: 周长安
+# @Date:   2017-03-15 12:40:15
+# @Email:  zchangan@163.com
+# @Last modified by:   周长安
+# @Last modified time: 2017-03-15 12:43:39
+
+language: node_js
+node_js:
+  - "iojs"
+  - "6"
