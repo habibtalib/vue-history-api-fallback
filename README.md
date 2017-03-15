@@ -1,6 +1,8 @@
 # vue-history-api-fallback
 `Express` middleware to redirect requests to a specified index page according to your `vue-router` options, useful for Single Page Applications using the HTML5 History API.
 
+[![NPM](https://nodei.co/npm/vue-history-api-fallback.png?downloads=true)](https://nodei.co/npm/vue-history-api-fallback/)
+
 ## Introduction
 
 SPA using `history` mode makes the URL look more "normal" (or Beautiful).
