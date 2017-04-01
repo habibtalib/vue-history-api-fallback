@@ -30,8 +30,8 @@ This middleware will change the request url to a specified index page whenever t
 
 ## Usage
 ### Install
-```
-npm install vue-history-api-fallback --save
+```bash
+npm i -S vue-history-api-fallback
 ```
 
 ### Use with express
